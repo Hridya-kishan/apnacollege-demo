@@ -1,4 +1,4 @@
 # apnacollege-demo
-This is my first Git Repository
-First commit changes.
-Author - Hridya Kishan
+This is my first Git Repository.<br>
+First commit changes.<br>
+Author - Hridya Kishan.
